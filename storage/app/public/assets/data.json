@@ -1,0 +1,134 @@
+[
+    {
+        "title": "This with icon",
+        "logo": "fa fa-database",
+        "type": "icon",
+        "link": "example.com"
+    },
+    {
+        "title": "This with image",
+        "logo": "storage/images/logoipsum.svg",
+        "type": "img",
+        "link": "example.com"
+    },
+    {
+        "title": "Data Visualization",
+        "logo": "storage/images/logoipsum.svg",
+        "type": "img",
+        "link": "/data-visualization"
+    },
+    {
+        "title": "User Management",
+        "logo": "fa fa-users",
+        "type": "icon",
+        "link": "/user-management"
+    },
+    {
+        "title": "Sales Performance",
+        "logo": "storage/images/logoipsum.svg",
+        "type": "img",
+        "link": "/sales-performance"
+    },
+    {
+        "title": "Inventory Control",
+        "logo": "fa fa-database",
+        "type": "icon",
+        "link": "/inventory-control"
+    },
+    {
+        "title": "Customer Relationship",
+        "logo": "storage/images/logoipsum.svg",
+        "type": "img",
+        "link": "/customer-relationship"
+    },
+    {
+        "title": "Financial Reporting",
+        "logo": "fa fa-chart-line",
+        "type": "icon",
+        "link": "/financial-reporting"
+    },
+    {
+        "title": "Project Management",
+        "logo": "storage/images/logoipsum.svg",
+        "type": "img",
+        "link": "/project-management"
+    },
+    {
+        "title": "Marketing Automation",
+        "logo": "fa fa-bullhorn",
+        "type": "icon",
+        "link": "/marketing-automation"
+    },
+    {
+        "title": "Supply Chain Analysis",
+        "logo": "storage/images/logoipsum.svg",
+        "type": "img",
+        "link": "/supply-chain-analysis"
+    },
+    {
+        "title": "Help Desk Support",
+        "logo": "fa fa-question-circle",
+        "type": "icon",
+        "link": "/help-desk-support"
+    },
+    {
+        "title": "HR Management",
+        "logo": "storage/images/logoipsum.svg",
+        "type": "img",
+        "link": "/hr-management"
+    },
+    {
+        "title": "Quality Assurance",
+        "logo": "fa fa-check-circle",
+        "type": "icon",
+        "link": "/quality-assurance"
+    },
+    {
+        "title": "Social Media Analytics",
+        "logo": "storage/images/logoipsum.svg",
+        "type": "img",
+        "link": "/social-media-analytics"
+    },
+    {
+        "title": "Security Monitoring",
+        "logo": "fa fa-shield-alt",
+        "type": "icon",
+        "link": "/security-monitoring"
+    },
+    {
+        "title": "E-commerce Platform",
+        "logo": "storage/images/logoipsum.svg",
+        "type": "img",
+        "link": "/e-commerce-platform"
+    },
+    {
+        "title": "Mobile App Development",
+        "logo": "fa fa-mobile-alt",
+        "type": "icon",
+        "link": "/mobile-app-development"
+    },
+    {
+        "title": "Cloud Computing",
+        "logo": "storage/images/logoipsum.svg",
+        "type": "img",
+        "link": "/cloud-computing"
+    },
+    {
+        "title": "AI & Machine Learning",
+        "logo": "fa fa-brain",
+        "type": "icon",
+        "link": "/ai-machine-learning"
+    },
+    {
+        "title": "Big Data Analytics",
+        "logo": "storage/images/logoipsum.svg",
+        "type": "img",
+        "link": "/big-data-analytics"
+    },
+    {
+        "title": "Cybersecurity",
+        "logo": "fa fa-lock",
+        "type": "icon",
+        "link": "/cybersecurity"
+    }
+]
