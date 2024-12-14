@@ -1,0 +1,20 @@
+[
+    {
+        "title": "This with icon",
+        "logo": "fa fa-database",
+        "type": "icon",
+        "link": "example.com"
+    },
+    {
+        "title": "This with image",
+        "logo": "/images/logoipsum.svg",
+        "type": "img",
+        "link": "example.com"
+    },
+    {
+        "title": "Cybersecurity",
+        "logo": "fa fa-lock",
+        "type": "icon",
+        "link": "/cybersecurity"
+    }
+]

@@ -37,7 +37,7 @@ export default {
         };
     },
     mounted() {
-        fetch('/storage/assets/data.json')
+        fetch('/assets/data.json')
             .then(res => res.json())
             .then(data => this.items = data);
     }
